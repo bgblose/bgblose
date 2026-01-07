@@ -44,13 +44,3 @@
       </ul>
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=kingzhat&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" width="350px" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-![Visitor Counter](https://komarev.com/ghpvc/?username=kingzhat&color=00a884&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
